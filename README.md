@@ -1,4 +1,4 @@
-# Sigma base
+# Sigma
 Decentralized voting engine for creating and hosting elections. Anyone can create and hold elections, in an open, transparent and trustless manner. 
 
 **How the system works**
@@ -69,7 +69,7 @@ In the meantime, we welcome PRs or issues from everyone that will help to improv
 
 <br/>
 
-*Factory Contract deployed on GoerliBase:* **0xaF528DF7F1B2528B7ec36a57C8ec0262B8256bFB**
+*Factory Contract deployed on Scroll sepolia:* ****
 
 
 
